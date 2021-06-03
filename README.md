@@ -1,6 +1,6 @@
 # bikesharing-trip-datasets
 
-This page maintains a list of trip datasets of bikesharing systems in different cities.
+This repository maintains a list of trip datasets of bikesharing systems in different cities.
 
 Most datasets are from docked bike sharing systems. These datasets are listed on <a href="docked.md"> this page </a>
 
