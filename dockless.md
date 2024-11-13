@@ -1,6 +1,6 @@
 # Dockless Bike Sharing Systems
 
-This is an incomplete list of the trip datasets of the **dockless** bikesharing systems in different cities.
+This is an incomplete list of the trip datasets of the **dockless** bikesharing systems in different cities. You can find more cities via this webpage https://github.com/openmobilityfoundation/mobility-data-specification 
 
 # **US**
 
@@ -15,5 +15,3 @@ This is an incomplete list of the trip datasets of the **dockless** bikesharing 
 ## Washington DC
 * Dockless bikesharing
 * Trip data page: https://ddot.dc.gov/page/dockless-api
-
-You can find more cities via this webpage https://github.com/openmobilityfoundation/mobility-data-specification 
