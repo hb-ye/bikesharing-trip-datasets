@@ -16,5 +16,4 @@ This is an incomplete list of the trip datasets of the **dockless** bikesharing 
 * Dockless bikesharing
 * Trip data page: https://ddot.dc.gov/page/dockless-api
 
-
-
+You can find more cities via this webpage https://github.com/openmobilityfoundation/mobility-data-specification 
